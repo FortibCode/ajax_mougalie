@@ -5,6 +5,10 @@ import Navbar from '../components/Navbar';
 export const metadata: Metadata = {
   title: 'Ajax de Mougalie | Site Officiel',
   description: 'Bienvenue sur le site officiel de l\'équipe de football Ajax de Mougalie. Découvrez nos joueurs, nos entraîneurs et nos dernières actualités.',
+  icons: {
+    icon: '/images/logo.jpeg',
+    apple: '/images/logo.jpeg',
+  },
 };
 
 export default function RootLayout({
