@@ -20,7 +20,7 @@ export default function Navbar() {
             style={{ borderRadius: '50%', border: '2px solid var(--primary)' }}
           />
           <div style={{ fontWeight: '900', fontSize: '1.5rem', fontFamily: 'Oswald', color: 'var(--text-light)', letterSpacing: '1px' }}>
-            AJAX <span className="text-gradient">MOUGALIE</span>
+            AJAX <span className="text-gradient">MOUNGALIE</span>
           </div>
         </div>
 

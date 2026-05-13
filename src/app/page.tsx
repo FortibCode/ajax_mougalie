@@ -90,7 +90,7 @@ export default function Home() {
 
       {/* Team Roster Netflix Style */}
       <section id="equipe" style={{ background: 'var(--bg-dark)' }}>
-        <div className="huge-title" style={{ top: '20%' }}>MOUGALIE</div>
+        <div className="huge-title" style={{ top: '20%' }}>MOUNGALIE</div>
         <div className="container">
           <h2 className="section-title">Les Guerriers</h2>
           
