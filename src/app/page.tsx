@@ -79,7 +79,7 @@ export default function Home() {
 
           <h1 className="delay-2">
             ICI C&apos;EST <br />
-            <span className="text-gradient">MOUGALIE</span>
+            <span className="text-gradient">MOUNGALIE</span>
           </h1>
           <p className="delay-3" style={{ fontSize: '1.2rem', fontWeight: 300, maxWidth: '600px', marginBottom: '3rem', animation: 'floatP 6s ease-in-out infinite' }}>
             L&apos;excellence n&apos;est pas un acte, mais une habitude. Bienvenue dans l&apos;arène de l&apos;Ajax.
@@ -144,7 +144,7 @@ export default function Home() {
                 sizes="350px"
               />
               <div className="player-info">
-                <h3 className="player-name">COACH PROFINA</h3>
+                <h3 className="player-name">COACH PREFINA</h3>
                 <div className="player-comment">LE MENTOR</div>
               </div>
             </div>
